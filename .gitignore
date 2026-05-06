@@ -1,0 +1,14 @@
+.my.cnf
+
+.env
+*.pem
+*.key
+
+loki-data/
+loki-wal/
+positions/
+data/
+
+*.log
+
+grafana.db
